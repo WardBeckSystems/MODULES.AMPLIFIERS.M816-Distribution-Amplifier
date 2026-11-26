@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (355, 24)–(432, 46) mm: DATE · Klvbioh · WBS WARD-BECK SYSTEMS · Mb16
 - **Wiring (first pass):** 69 connected wire groups from 475 runs; labelled ends: 166 mm → M3bi, Ri7, Mok, 22; 159 mm → 818, Cab, 04I48, 2R4037; 138 mm → +18V, 47/25, Ibk; 137 mm → 523k, 8k8, Bue, 47/24; 110 mm → EMSTE
 
-Every curve, box, word and wire group: [19xx - M816 - DOC - 816-02-001 - LAST COMPONENT DESIGNATIONS ARE (traced).json](../SCHEMATICS/19xx%20-%20M816%20-%20DOC%20-%20816-02-001%20-%20LAST%20COMPONENT%20DESIGNATIONS%20ARE%20(traced).json) (the CAD file: `19xx - M816 - DOC - 816-02-001 - LAST COMPONENT DESIGNATIONS ARE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M816 - DOC - 816-02-001 - LAST COMPONENT DESIGNATIONS ARE (traced).json](../SCHEMATICS/19xx%20-%20M816%20-%20DOC%20-%20816-02-001%20-%20LAST%20COMPONENT%20DESIGNATIONS%20ARE%20%28traced%29.json) (the CAD file: `19xx - M816 - DOC - 816-02-001 - LAST COMPONENT DESIGNATIONS ARE (traced).dxf`).
 
 ## Full text
 
