@@ -1,6 +1,6 @@
 # M816 Distribution Amplifier · Amplifiers
 
-Ward-Beck Systems M816. Wiki page: [M816 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M816.html)
+Ward-Beck Systems M816. Wiki page: [M816 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M816-Distribution-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

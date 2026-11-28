@@ -1,5 +1,5 @@
 # 19xx - 816-02-001 - DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. MAHONEY - ENG RKB - ISS 3.png
-Wiki page: [M816](../../../../PAGES/M816.md)
+Wiki page: [M816](../)
 
 
 - **Year:** unknown (title block (read by eye))
